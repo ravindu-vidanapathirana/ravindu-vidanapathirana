@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋 I'm Ravindu Vidanapathirana
 
-<!--
-**ravindu-vidanapathirana/ravindu-vidanapathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Undergraduate:** Pursuing a Bachelor of Information and Communication Technology (BICT) at the Faculty of Technology, University of Colombo.
+- 💻 **Passionate About:** Full-stack web development, system development, UI/UX, and building practical software solutions.
+- 🌱 **Currently Exploring:** Advanced JavaScript frameworks, backend scaling, and database architecture.
+- 🚀 **Goal:** Bridging the gap between real-world business challenges and scalable tech solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, PHP, HTML5, CSS3, SQL
+- **Frameworks & Libraries:** Node.js, Express, React (basics)
+- **Databases & Tools:** MySQL, Git, GitHub, VS Code, Linux
+- **Design & Workflow:** Figma, REST APIs, Postman
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravindu-vidanapathirana&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
